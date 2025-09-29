@@ -25,7 +25,4 @@ Our tool converts **dense text into structured, learner-friendly content**.
 - User uploads a **PDF** or pastes multiple paragraphs of text.  
 - Each paragraph (or section) is processed separately.  
 
-**Example Input**  
-```text
-Quantum computing uses qubits which can exist in superposition states.
-Photosynthesis is the process by which plants convert sunlight into energy.
+
