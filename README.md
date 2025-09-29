@@ -1,73 +1,31 @@
-# Welcome to your Lovable project
+# 📖 AI-Powered Knowledge Simplifier
 
-## Project info
+## 🌟 Project Overview
+This project takes **raw, often complex text** (like from PDFs, articles, or copy-paste notes) and transforms it into **structured, easy-to-understand outputs using AI**.  
 
-**URL**: https://lovable.dev/projects/6bc99b1c-39bd-4c86-9328-8ee80d932dea
+It’s designed for:
+- 📚 Students struggling with textbooks & technical docs  
+- 👩‍🏫 Educators who need personalized teaching material  
+- 🧑‍💻 Beginners who want analogies and simplified explanations  
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 🧩 Problem We Solve
+- Textbooks, PDFs, and research papers are **hard to digest**.  
+- Beginners often need **analogies, stories, and simpler explanations**.  
+- Educators & learners need tools that can **personalize knowledge delivery**.  
 
-**Use Lovable**
+Our tool converts **dense text into structured, learner-friendly content**.  
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/6bc99b1c-39bd-4c86-9328-8ee80d932dea) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🔹 How It Works
 
-**Use your preferred IDE**
+### ✅ Input
+- User uploads a **PDF** or pastes multiple paragraphs of text.  
+- Each paragraph (or section) is processed separately.  
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/6bc99b1c-39bd-4c86-9328-8ee80d932dea) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+**Example Input**  
+```text
+Quantum computing uses qubits which can exist in superposition states.
+Photosynthesis is the process by which plants convert sunlight into energy.
